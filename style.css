@@ -40,6 +40,8 @@ body {
 .img-glow-wrapper {
     position: relative;
     display: inline-block;
+    padding: 20px;
+    overflow: visible !important;
 }
 
 .img-glow-wrapper::before {
@@ -57,9 +59,10 @@ body {
 .profile-img {
     border: 2px solid rgba(0, 212, 255, 0.3);
     transition: transform 0.3s ease;
-    max-width: 480px;
+    width: 100%;
     height: auto;
     display: block;
+    object-fit: block;
     margin-left: auto;
     margin-right: auto;
 }
@@ -178,6 +181,11 @@ body {
 .social-btn:hover {
     transform: translateY(-5px);
     box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 /* Ikon Linkedln & Instgaram (Untuk HP) */
