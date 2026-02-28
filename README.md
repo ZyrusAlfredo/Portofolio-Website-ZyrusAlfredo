@@ -1,7 +1,8 @@
 # Portfolio Website - Zyrus Alfredo
 **Nama: Zyrus Alfredo Randan Malinggato**\
 **NIM: 2409116120**\
-Website portofolio statis yang dibuat sebagai tugas praktikum untuk menampilkan Profil, Pengalaman, Keahlian, dan Sertifikat.
+Website portofolio statis yang dibuat sebagai tugas praktikum untuk menampilkan Profil, Pengalaman, Keahlian, dan Sertifikat.\
+**📍Go To Website: https://zyrusalfredo.vercel.app/**
 
 ---
 
